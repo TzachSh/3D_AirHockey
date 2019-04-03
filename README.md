@@ -11,6 +11,12 @@ Player 2: Move stick up - 'w' Move stick down - 's'
 To let the computer play automatically with both players - press the space button on keyboard.
 
 
+Screenshots:
+
+(https://github.com/TzachSh/3D_AirHockey/blob/master/Img/Img1.png)
+
+https://github.com/TzachSh/3D_AirHockey/blob/master/Img/Img2.png
+
 
 
 
