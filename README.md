@@ -13,9 +13,11 @@ To let the computer play automatically with both players - press the space butto
 
 Screenshots:
 
-(https://github.com/TzachSh/3D_AirHockey/blob/master/Img/Img1.png)
+![alt text](https://github.com/TzachSh/3D_AirHockey/blob/master/Img/Img1.png)
 
-https://github.com/TzachSh/3D_AirHockey/blob/master/Img/Img2.png
+![alt text](https://github.com/TzachSh/3D_AirHockey/blob/master/Img/Img2.png)
+
+
 
 
 
